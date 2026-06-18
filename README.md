@@ -71,6 +71,20 @@ This KPI represents the average satisfaction level of employees. Higher satisfac
 
 These employees are identified based on low satisfaction levels and high workloads. Monitoring this group helps HR proactively reduce future attrition.
 
+# Dashboard
+
+1. Executive Overview
+<img width="763" height="437" alt="executive_dash" src="https://github.com/user-attachments/assets/705296a8-3807-415f-8edd-c11a6de6ea91" />
+
+2. Attrition Analysis
+<img width="719" height="416" alt="Attrition" src="https://github.com/user-attachments/assets/df0b8f92-f6fb-45a4-af48-1d8bac0468ca" />
+
+3. Employee Health
+<img width="755" height="354" alt="Employee_health" src="https://github.com/user-attachments/assets/da83d887-2c3b-4fca-a201-278144ad44e5" />
+
+4. Employee Segmentation
+<img width="731" height="426" alt="Employee_seg" src="https://github.com/user-attachments/assets/e0281188-e545-4819-be4f-18dc2329dd5a" />
+
 # Key Findings
 
 ## Department Analysis
